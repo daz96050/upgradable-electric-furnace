@@ -1,0 +1,13 @@
+{
+	"name": "upgradable-electric-furnace",
+	"version": "0.0.4",
+	"title": "Space Exploration - Upgradable Electric Furnace",
+	"author": "daz96050",
+	"factorio_version": "2.0",
+	"description": "Adds recipes to upgrade the electric stone and steel furnace to their better variants",
+	"dependencies": [
+		"base >= 2.0.0",
+		"space-exploration",
+		"Electric Furnaces"
+	]
+}
